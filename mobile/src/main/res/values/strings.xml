@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleNotification</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="excited_title"><u>Excited?</u></string>
+    <string name="excited_text">Show off your happiness</string>
+    <string name="title_activity_load_camera">LoadCameraActivity</string>
+    <string name="hashtag">#cs160excited</string>
+
+    <color name="white">#FFFFFF</color>
+    <string name="title_activity_tweet">TweetActivity</string>
+</resources>

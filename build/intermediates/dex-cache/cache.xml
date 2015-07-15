@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-4eb3c486f7195b0cf1e8c109d8ce9ecebcf98a33.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/classes-a6418d207ecb9db5d5b700b422ced64e68cf7045.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.4/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/classes-845f36c74021f9e715b975da961a11a8337c05b6.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-1354efafb8c1e9f57b35699521f06c8d6e2d40b8.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-15a45a69f8223ff8f29f5a70ccd37636b22cc19d.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/picasso-2.5.2-88484917a1b25786484cc6bcbb31b6710908e463.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-7f5ab517784e2c55c76b36e2fe7606a9b3e80dd6.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/classes-d02d61483ad044d6bf69ec8c9324b9f7b47c0feb.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-ccc66b6cc32d7218542757e54f03ee1cbaea8776.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-5b681ffd2f48da1413e8c3c53046e6fabf5411be.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a9f5c30c22dc9a623078f85000c787cd191aa35f">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/classes-2fbaacb1812eb8a491b531b7acf7404c622473dd.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/classes-c4260e487e4a6dc078ad36d30658a304dd94fd7d.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-bfad80722b47e7df1954d335d7e3c5979ad1a8fa.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-de79d649b8d1d5e464b1e0d1a535890e1b41404b.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-6cb27ea5ab6bd9865c50402c62111e14239891e4.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-1825c1c2663d6dfb50ce88d6730e848f41b7ba9e.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/gson-2.2.4-c9a81b423873d77760887d663f8cbc3970e3994a.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-82b5290a642d5dc5c41f1d59ae004b13ef7f6e4e.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-6f126d2e2fc1edc92678446848d90065ac8af9c0.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-0fddc62f361d60b78cc188d6481f5583877303fb.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/retrofit-1.6.1-6b096be485e67eb0c5b15cf70eb473c672d1450d.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.6.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85dbcb10f2e04aa08bcd7b4405e4a7fec615760d">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/classes-fe54102b90f53b6a7d69080f5496da042aaf631f.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b28e63d90ff27986cf2d2d8e15d6077138598f38.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-d9dee58cfacffd1f8e2707aebe727c8dcd15f188.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-46c9f0768b62c305513f38a89c3210f38117d1c5.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-a248d55931851c3951d5b189926431248d952ba6.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-d0eb0dfa989f4158f93e0165519009c359e313ef.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-c5f0854d223d658e6e377eebfadde5ae3c3d52f1.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-638decee97c0d9e49b19d9e88e792b7309477b4d.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-d65d2752936a2a49735d63535ac91ad5253244e7.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-df916c9e5b48c01d164429dcfe327ede2744e92d.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-112d378a98e497b7e138feb413d81f9646da0e85.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-516a74c11a922e4dbbc7b204ed6a0d182e9e1e8f.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.6.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2bd26de12f5ea29d4cabc6e84045de04cb615680">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/classes-2dc21c34f00cfaf371635e4884969421bb630ceb.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73e3dcd1c6363340af17e78967e6ed27d585d52d">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/classes-b637c8f7381f68fdeb8f12e6a06c0d958f8c99f2.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-af165eb9e9aa0d83ee8af0b1f7dde48b102efc43.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/0.8.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="157015930713d0411b69a76606f306c9a2c11af3">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/mobile/build/intermediates/pre-dexed/debug/classes-997ee0c9fc162566a98e407cc3a0a18c20b22f42.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-70700d52d1b6b28ed21407e12bf33e270faf511c.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-55f97f67ace63c06e493d96cb21e76d7e21661a1.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-2df90ef9c50af9176ffb4aadb876f884da4bdd6e.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-e7aa9130cd672d60fc5dfec756dcf4358b7ffdd4.jar" />
+    </item>
+    <item
+        jar="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/Ahaidrey/AndroidStudioProjects/android-wear-hello-world-master/wear/build/intermediates/pre-dexed/debug/classes-7f00bbf122171dee464cab93a56688593fe0de0b.jar" />
+    </item>
+
+</items>
